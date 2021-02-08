@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Speakers_stuffs.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="main speaker bump0000" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0001" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0002" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0003" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0004" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0005" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0006" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0007" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0008" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0009" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0010" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0011" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0012" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0013" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0014" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0015" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0016" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0017" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0018" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0019" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0020" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0021" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0022" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0023" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0024" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0025" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0026" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0027" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="main speaker bump0028" x="0" y="0" width="317" height="156"/>
+	<SubTexture name="small speaker bod20000" x="317" y="0" width="209" height="235"/>
+	<SubTexture name="small speaker bump0000" x="526" y="0" width="211" height="237"/>
+	<SubTexture name="small speaker bump0001" x="526" y="0" width="211" height="237"/>
+	<SubTexture name="small speaker bump0002" x="737" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0003" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0004" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0005" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0006" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0007" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0008" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0009" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0010" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0011" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0012" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0013" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0014" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0015" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0016" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0017" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0018" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0019" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0020" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0021" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0022" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0023" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0024" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0025" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0026" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0027" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0028" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0029" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0030" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0031" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0032" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0033" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker bump0034" x="946" y="0" width="209" height="235" frameX="-2" frameY="-2" frameWidth="211" frameHeight="237"/>
+	<SubTexture name="small speaker openering0000" x="1155" y="0" width="90" height="104"/>
+	<SubTexture name="smallspeakerbod10000" x="1245" y="0" width="211" height="237"/>
+	<SubTexture name="speakerbod10000" x="1456" y="0" width="410" height="352"/>
+	<SubTexture name="speakerbod20000" x="0" y="352" width="398" height="351"/>
+	<SubTexture name="speakers0000" x="398" y="352" width="703" height="352"/>
+	<SubTexture name="speakers0001" x="398" y="352" width="703" height="352"/>
+	<SubTexture name="speakers0002" x="1101" y="352" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0003" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0004" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0005" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0006" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0007" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0008" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0009" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0010" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0011" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0012" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0013" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0014" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0015" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0016" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0017" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0018" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0019" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0020" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0021" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0022" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0023" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="speakers0024" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0000" x="398" y="352" width="703" height="352"/>
+	<SubTexture name="stereo boom0001" x="398" y="352" width="703" height="352"/>
+	<SubTexture name="stereo boom0002" x="1101" y="352" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0003" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0004" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0005" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0006" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0007" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0008" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0009" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0010" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0011" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0012" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0013" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0014" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0015" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0016" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0017" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0018" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0019" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0020" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0021" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0022" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0023" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="stereo boom0024" x="0" y="704" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+</TextureAtlas>

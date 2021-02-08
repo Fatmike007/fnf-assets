@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dumbs_deaths.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Henchmen on rail 1 PINK0000" x="0" y="0" width="434" height="380"/>
+	<SubTexture name="arm inward0000" x="434" y="0" width="122" height="127"/>
+	<SubTexture name="arm limb0000" x="556" y="0" width="92" height="141"/>
+	<SubTexture name="bg dancer body0000" x="648" y="0" width="145" height="149"/>
+	<SubTexture name="bg dancer left arm0000" x="793" y="0" width="91" height="84"/>
+	<SubTexture name="bg dancer left hand0000" x="884" y="0" width="97" height="62"/>
+	<SubTexture name="bg dancer legs pose0000" x="981" y="0" width="154" height="204"/>
+	<SubTexture name="bg dancer right arm0000" x="1135" y="0" width="94" height="113"/>
+	<SubTexture name="bg dancer right hand0000" x="1229" y="0" width="145" height="65"/>
+	<SubTexture name="bg dancer sketch0000" x="1374" y="0" width="394" height="394" frameX="0" frameY="-15" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0001" x="1374" y="0" width="394" height="394" frameX="0" frameY="-15" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0002" x="1768" y="0" width="394" height="391" frameX="0" frameY="-18" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0003" x="1768" y="0" width="394" height="391" frameX="0" frameY="-18" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0004" x="1768" y="0" width="394" height="391" frameX="0" frameY="-18" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0005" x="2162" y="0" width="395" height="390" frameX="0" frameY="-19" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0006" x="2162" y="0" width="395" height="390" frameX="0" frameY="-19" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0007" x="2557" y="0" width="389" height="385" frameX="-6" frameY="-24" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0008" x="2557" y="0" width="389" height="385" frameX="-6" frameY="-24" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0009" x="2946" y="0" width="249" height="358" frameX="-123" frameY="-52" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0010" x="2946" y="0" width="249" height="358" frameX="-123" frameY="-52" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0011" x="3195" y="0" width="251" height="362" frameX="-121" frameY="-48" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0012" x="3195" y="0" width="251" height="362" frameX="-121" frameY="-48" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0013" x="3195" y="0" width="251" height="362" frameX="-121" frameY="-48" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0014" x="3195" y="0" width="251" height="362" frameX="-121" frameY="-48" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0015" x="3446" y="0" width="404" height="410" frameX="-113" frameY="0" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0016" x="3446" y="0" width="404" height="410" frameX="-113" frameY="0" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0017" x="0" y="410" width="394" height="404" frameX="-120" frameY="-5" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0018" x="0" y="410" width="394" height="404" frameX="-120" frameY="-5" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0019" x="0" y="410" width="394" height="404" frameX="-120" frameY="-5" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0020" x="394" y="410" width="395" height="404" frameX="-119" frameY="-5" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0021" x="394" y="410" width="395" height="404" frameX="-119" frameY="-5" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0022" x="789" y="410" width="395" height="402" frameX="-119" frameY="-7" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0023" x="789" y="410" width="395" height="402" frameX="-119" frameY="-7" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0024" x="1184" y="410" width="254" height="361" frameX="-141" frameY="-49" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0025" x="1184" y="410" width="254" height="361" frameX="-141" frameY="-49" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0026" x="1438" y="410" width="254" height="361" frameX="-139" frameY="-49" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0027" x="1438" y="410" width="254" height="361" frameX="-139" frameY="-49" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0028" x="1438" y="410" width="254" height="361" frameX="-139" frameY="-49" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="bg dancer sketch0029" x="1438" y="410" width="254" height="361" frameX="-139" frameY="-49" frameWidth="517" frameHeight="410"/>
+	<SubTexture name="chest bend0000" x="1692" y="410" width="136" height="166"/>
+	<SubTexture name="demon head 10000" x="1828" y="410" width="168" height="200"/>
+	<SubTexture name="demon head closed smile0000" x="1996" y="410" width="169" height="192"/>
+	<SubTexture name="head limb0000" x="2165" y="410" width="160" height="214"/>
+	<SubTexture name="head limb 20000" x="2325" y="410" width="157" height="234"/>
+	<SubTexture name="hench arm limb 20000" x="2482" y="410" width="121" height="131"/>
+	<SubTexture name="hench arm spin0000" x="556" y="0" width="92" height="141" frameX="-24" frameY="0" frameWidth="92" frameHeight="141"/>
+	<SubTexture name="hench arm spin0001" x="556" y="0" width="92" height="141" frameX="-24" frameY="0" frameWidth="92" frameHeight="141"/>
+	<SubTexture name="hench arm spin0002" x="2603" y="410" width="140" height="95" frameX="0" frameY="-23" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin0003" x="2603" y="410" width="140" height="95" frameX="0" frameY="-23" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin0004" x="2743" y="410" width="95" height="139" frameX="-23" frameY="-1" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin0005" x="2743" y="410" width="95" height="139" frameX="-23" frameY="-1" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin0006" x="2838" y="410" width="131" height="106" frameX="-5" frameY="-16" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin0007" x="2838" y="410" width="131" height="106" frameX="-5" frameY="-16" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin 20000" x="2482" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="121" frameHeight="131"/>
+	<SubTexture name="hench arm spin 20001" x="2482" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="121" frameHeight="131"/>
+	<SubTexture name="hench arm spin 20002" x="2969" y="410" width="134" height="114" frameX="0" frameY="-8" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 20003" x="2969" y="410" width="134" height="114" frameX="0" frameY="-8" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 20004" x="3103" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 20005" x="3103" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 20006" x="3224" y="410" width="131" height="120" frameX="-3" frameY="-5" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 20007" x="3224" y="410" width="131" height="120" frameX="-3" frameY="-5" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0000" x="3355" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0001" x="3355" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0002" x="3476" y="410" width="134" height="114" frameX="0" frameY="-8" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0003" x="3476" y="410" width="134" height="114" frameX="0" frameY="-8" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0004" x="3610" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0005" x="3610" y="410" width="121" height="131" frameX="-7" frameY="0" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0006" x="3731" y="410" width="131" height="120" frameX="-3" frameY="-5" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin 2 PINK0007" x="3731" y="410" width="131" height="120" frameX="-3" frameY="-5" frameWidth="134" frameHeight="131"/>
+	<SubTexture name="hench arm spin PINK0000" x="3862" y="410" width="92" height="141" frameX="-24" frameY="0" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin PINK0001" x="3862" y="410" width="92" height="141" frameX="-24" frameY="0" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin PINK0002" x="3954" y="410" width="140" height="95" frameX="0" frameY="-23" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin PINK0003" x="3954" y="410" width="140" height="95" frameX="0" frameY="-23" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin PINK0004" x="0" y="814" width="95" height="139" frameX="-23" frameY="-1" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin PINK0005" x="0" y="814" width="95" height="139" frameX="-23" frameY="-1" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin PINK0006" x="95" y="814" width="131" height="106" frameX="-5" frameY="-16" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench arm spin PINK0007" x="95" y="814" width="131" height="106" frameX="-5" frameY="-16" frameWidth="140" frameHeight="141"/>
+	<SubTexture name="hench body in car0000" x="226" y="814" width="356" height="169"/>
+	<SubTexture name="hench car arm0000" x="582" y="814" width="220" height="171"/>
+	<SubTexture name="hench head in car0000" x="802" y="814" width="262" height="298"/>
+	<SubTexture name="hench head spin0000" x="2165" y="410" width="160" height="214" frameX="-38" frameY="0" frameWidth="160" frameHeight="214"/>
+	<SubTexture name="hench head spin0001" x="2165" y="410" width="160" height="214" frameX="-38" frameY="0" frameWidth="160" frameHeight="214"/>
+	<SubTexture name="hench head spin0002" x="1064" y="814" width="222" height="167" frameX="0" frameY="-1" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin0003" x="1064" y="814" width="222" height="167" frameX="0" frameY="-1" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin0004" x="1286" y="814" width="160" height="217" frameX="-30" frameY="0" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin0005" x="1286" y="814" width="160" height="217" frameX="-30" frameY="0" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin0006" x="1446" y="814" width="223" height="174" frameX="-15" frameY="-45" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin0007" x="1446" y="814" width="223" height="174" frameX="-15" frameY="-45" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin 20000" x="2325" y="410" width="157" height="234" frameX="-39" frameY="-2" frameWidth="157" frameHeight="234"/>
+	<SubTexture name="hench head spin 20001" x="2325" y="410" width="157" height="234" frameX="-39" frameY="-2" frameWidth="157" frameHeight="234"/>
+	<SubTexture name="hench head spin 20002" x="1669" y="814" width="211" height="170" frameX="-25" frameY="-19" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 20003" x="1669" y="814" width="211" height="170" frameX="-25" frameY="-19" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 20004" x="1880" y="814" width="171" height="208" frameX="-17" frameY="0" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 20005" x="1880" y="814" width="171" height="208" frameX="-17" frameY="0" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 20006" x="2051" y="814" width="204" height="173" frameX="0" frameY="-50" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 20007" x="2051" y="814" width="204" height="173" frameX="0" frameY="-50" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0000" x="2255" y="814" width="157" height="234" frameX="-39" frameY="-2" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0001" x="2255" y="814" width="157" height="234" frameX="-39" frameY="-2" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0002" x="2412" y="814" width="211" height="170" frameX="-25" frameY="-19" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0003" x="2412" y="814" width="211" height="170" frameX="-25" frameY="-19" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0004" x="2623" y="814" width="171" height="208" frameX="-17" frameY="0" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0005" x="2623" y="814" width="171" height="208" frameX="-17" frameY="0" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0006" x="2794" y="814" width="204" height="173" frameX="0" frameY="-50" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin 2 PINK0007" x="2794" y="814" width="204" height="173" frameX="0" frameY="-50" frameWidth="236" frameHeight="236"/>
+	<SubTexture name="hench head spin PINK0000" x="2998" y="814" width="160" height="214" frameX="-38" frameY="0" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin PINK0001" x="2998" y="814" width="160" height="214" frameX="-38" frameY="0" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin PINK0002" x="3158" y="814" width="222" height="167" frameX="0" frameY="-1" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin PINK0003" x="3158" y="814" width="222" height="167" frameX="0" frameY="-1" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin PINK0004" x="3380" y="814" width="160" height="217" frameX="-30" frameY="0" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin PINK0005" x="3380" y="814" width="160" height="217" frameX="-30" frameY="0" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin PINK0006" x="3540" y="814" width="223" height="174" frameX="-15" frameY="-45" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench head spin PINK0007" x="3540" y="814" width="223" height="174" frameX="-15" frameY="-45" frameWidth="238" frameHeight="219"/>
+	<SubTexture name="hench leg spin0000" x="2630" y="1112" width="158" height="111" frameX="-4" frameY="-28" frameWidth="158" frameHeight="111"/>
+	<SubTexture name="hench leg spin0001" x="2630" y="1112" width="158" height="111" frameX="-4" frameY="-28" frameWidth="158" frameHeight="111"/>
+	<SubTexture name="hench leg spin0002" x="3763" y="814" width="129" height="164" frameX="-19" frameY="-2" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin0003" x="3763" y="814" width="129" height="164" frameX="-19" frameY="-2" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin0004" x="3892" y="814" width="165" height="126" frameX="0" frameY="-21" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin0005" x="3892" y="814" width="165" height="126" frameX="0" frameY="-21" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin0006" x="0" y="1112" width="117" height="166" frameX="-24" frameY="0" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin0007" x="0" y="1112" width="117" height="166" frameX="-24" frameY="0" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin 20000" x="2788" y="1112" width="143" height="126" frameX="0" frameY="-14" frameWidth="143" frameHeight="126"/>
+	<SubTexture name="hench leg spin 20001" x="2788" y="1112" width="143" height="126" frameX="0" frameY="-14" frameWidth="143" frameHeight="126"/>
+	<SubTexture name="hench leg spin 20002" x="117" y="1112" width="137" height="143" frameX="0" frameY="-8" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 20003" x="117" y="1112" width="137" height="143" frameX="0" frameY="-8" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 20004" x="254" y="1112" width="142" height="140" frameX="-7" frameY="-13" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 20005" x="254" y="1112" width="142" height="140" frameX="-7" frameY="-13" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 20006" x="396" y="1112" width="140" height="142" frameX="-6" frameY="0" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 20007" x="396" y="1112" width="140" height="142" frameX="-6" frameY="0" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0000" x="536" y="1112" width="143" height="126" frameX="0" frameY="-14" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0001" x="536" y="1112" width="143" height="126" frameX="0" frameY="-14" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0002" x="679" y="1112" width="137" height="143" frameX="0" frameY="-8" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0003" x="679" y="1112" width="137" height="143" frameX="0" frameY="-8" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0004" x="816" y="1112" width="142" height="140" frameX="-7" frameY="-13" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0005" x="816" y="1112" width="142" height="140" frameX="-7" frameY="-13" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0006" x="958" y="1112" width="140" height="142" frameX="-6" frameY="0" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin 2 PINK0007" x="958" y="1112" width="140" height="142" frameX="-6" frameY="0" frameWidth="149" frameHeight="153"/>
+	<SubTexture name="hench leg spin PINK0000" x="1098" y="1112" width="158" height="111" frameX="-4" frameY="-28" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin PINK0001" x="1098" y="1112" width="158" height="111" frameX="-4" frameY="-28" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin PINK0002" x="1256" y="1112" width="129" height="164" frameX="-19" frameY="-2" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin PINK0003" x="1256" y="1112" width="129" height="164" frameX="-19" frameY="-2" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin PINK0004" x="1385" y="1112" width="165" height="126" frameX="0" frameY="-21" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin PINK0005" x="1385" y="1112" width="165" height="126" frameX="0" frameY="-21" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin PINK0006" x="1550" y="1112" width="117" height="166" frameX="-24" frameY="0" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="hench leg spin PINK0007" x="1550" y="1112" width="117" height="166" frameX="-24" frameY="0" frameWidth="165" frameHeight="166"/>
+	<SubTexture name="henchmen hit on rail0000" x="1667" y="1112" width="434" height="379"/>
+	<SubTexture name="henchmen hit on rail0001" x="1667" y="1112" width="434" height="379"/>
+	<SubTexture name="henchmen hit on rail0002" x="1667" y="1112" width="434" height="379"/>
+	<SubTexture name="henchmen on rail 20000" x="2101" y="1112" width="264" height="303"/>
+	<SubTexture name="henchmen on rail 20001" x="2101" y="1112" width="264" height="303"/>
+	<SubTexture name="henchmen on rail 2 PINK0000" x="2365" y="1112" width="265" height="304"/>
+	<SubTexture name="leg limb0000" x="2630" y="1112" width="158" height="111"/>
+	<SubTexture name="leg limb 20000" x="2788" y="1112" width="143" height="126"/>
+	<SubTexture name="legs bend0000" x="2931" y="1112" width="185" height="185"/>
+</TextureAtlas>
